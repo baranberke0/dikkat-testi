@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dikkat Testi</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>👁️ Dikkat Testi</h1>
+
+    <div class="game-area">
+      <div id="info-box" class="hidden"></div>
+
+      <div id="countdown" class="hidden"></div>
+      <div id="countdown-bar" class="hidden">
+        <div id="countdown-progress"></div>
+      </div>
+
+      <input type="text" id="user-input" placeholder="Hatırladığını yaz..." class="hidden" />
+      <button id="submit-btn" class="hidden">Cevabı Gönder</button>
+
+      <p id="feedback"></p>
+      <p>Skor: <span id="score">0</span> | Deneme: <span id="attempts">0</span> | Seviye: <span id="level">3</span></p>
+
+      <button id="start-btn">🟢 Başla</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
