@@ -1,6 +1,6 @@
-# Memory Tracker
+# Dikkat Testi
 
-Memory Tracker, kısa süreli hafızayı geliştirmeye yönelik basit ve interaktif bir web oyunudur. Ekranda belirli bir süre gösterilen rakam dizilerini hatırlamaya çalışırsınız. Başarıya göre zorluk seviyesi artar ve oyun daha heyecanlı hale gelir.
+Dikkat Testi, kısa süreli hafızayı geliştirmeye yönelik basit ve interaktif bir web oyunudur. Ekranda belirli bir süre gösterilen rakam dizilerini hatırlamaya çalışırsınız. Başarıya göre zorluk seviyesi artar ve oyun daha heyecanlı hale gelir.
 
 ## Özellikler
 
