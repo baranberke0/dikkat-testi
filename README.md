@@ -10,20 +10,5 @@ Dikkat Testi, kısa süreli hafızayı geliştirmeye yönelik basit ve interakti
 - Sade ve kullanıcı dostu tasarım  
 - HTML, CSS ve JavaScript ile geliştirilmiş  
 
-## Nasıl Kullanılır?
-
-1. Projeyi bilgisayarınıza indirin veya GitHub’dan klonlayın.  
-2. `index.html` dosyasını bir tarayıcıda açın.  
-3. Ekranda görünen rakamları dikkatlice izleyin ve hafızanıza kaydedin.  
-4. Hatırladığınız rakamları doğru sırayla girin ve puanınızı artırın!  
-5. Yanlış yaparsanız, oyun başa döner ve tekrar deneyebilirsiniz.
-
-## Geliştirme
-
-Projeye katkıda bulunmak isterseniz, kodu inceleyip yeni özellikler ekleyebilirsiniz.  
-JavaScript, HTML ve CSS bilgisi bu projede işinize yarayacaktır.
-
----
-
 *İyi eğlenceler ve bol hafıza!*
 
